@@ -5,8 +5,8 @@
 import fractions
 
 
-num_1, denum_1 = input("Введите дробь типа a/b :").split("/")
-num_2, denum_2 = input("Введите вторую дробь типа a/b :").split("/")
+num_1, denum_1 = input("Введите дробь типа a/b: ").split("/")
+num_2, denum_2 = input("Введите вторую дробь типа a/b: ").split("/")
 
 
 
